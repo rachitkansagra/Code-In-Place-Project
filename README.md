@@ -4,7 +4,7 @@ This is my Code In Place Final Project(Graphical Tic-Tac-Toe)
 The Project is based on the Game Of Tic-Tac-Toe, modified by using Images and .csv files.
 In the Project, Human player can compete against 2 bots: Random Bot and An AI Bot.
 
-If you want to see how the Game works, watch the following 2 minute youtube video made by me :
+If you want to see how the Game works, watch the following 2-minute youtube video made by me :
 
 
 
