@@ -1,0 +1,9 @@
+direction,number,x,y
+horizontal,0,115,240
+horizontal,1,115,373
+horizontal,2,115,506
+vertical,0,165,190
+vertical,1,298,190
+vertical,2,431,190
+diagonal1,125,200,471,546
+diagonal2,471,200,125,546
